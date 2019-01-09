@@ -93,7 +93,7 @@
     cursor: default;
     color: inherit; }
 .rangePicker > .wrap .preset {
-    display: inline-block;
+    display: none;
     text-transform: capitalize;
     min-width: 110px;
     padding: 3px;
