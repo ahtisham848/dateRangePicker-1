@@ -1,0 +1,33 @@
+{
+  "author": {
+    "name": "yairEO"
+  },
+  "bugs": {
+    "url": "https://github.com/MiroslavGannoha/dateRangePicker/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "jquery": "^3.2.1"
+  },
+  "deprecated": false,
+  "description": "Simple month range picker with presets. Forked from yairEO/dateRangePicker. Some improvements added.",
+  "devDependencies": {},
+  "homepage": "https://github.com/MiroslavGannoha/dateRangePicker#readme",
+  "keywords": [
+    "monthpicker",
+    "rangepicker",
+    "datepicker",
+    "month-picker",
+    "range-picker",
+    "date-picker",
+    "month",
+    "range",
+    "date",
+    "picker"
+  ],
+  "license": "MIT",
+  "main": "datePicker.js",
+  "name": "month-range-picker",
+  "style": "picker.css",
+  "version": "1.0.6"
+}
