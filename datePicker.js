@@ -498,7 +498,7 @@
 				displayText : 'twelve months',
 				value       : 'custom'
 		}],
-		months 	: ['jan','feb','mar','apr','may','jun','jul','aug','sep','oct','nov','dec'],
+		months 	: ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'],
 		minDate : [5,2006],
 		maxDate : [8,2013],
 		setDate : null
