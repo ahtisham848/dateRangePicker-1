@@ -40,16 +40,16 @@
 			this.picker.insertAfter(this.obj);
 
 			// for positioning
-			this.tether = new Tether({
-				element         : this.picker,
-				target          : this.obj,
-				attachment      : this.settings.RTL ? 'top right' : 'top left',
-				targetAttachment: this.settings.RTL ? 'bottom right' : 'bottom left',
-				constraints: [{
-			     	to: 'window',
-			     	attachment: 'together'
-			    }]
-			})
+			// this.tether = new Tether({
+			// 	element         : this.picker,
+			// 	target          : this.obj,
+			// 	attachment      : this.settings.RTL ? 'top right' : 'top left',
+			// 	targetAttachment: this.settings.RTL ? 'bottom right' : 'bottom left',
+			// 	constraints: [{
+			//      	to: 'window',
+			//      	attachment: 'together'
+			//     }]
+			// })
 		};
 
 		RangePicker.prototype = {
